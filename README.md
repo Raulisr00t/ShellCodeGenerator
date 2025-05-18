@@ -5,7 +5,6 @@
 ![ShellcodeGenerator Banner](https://img.shields.io/badge/NASM-Shellcode-orange?style=flat-square&logo=nasm)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Nim-yellow?style=flat-square&logo=nim)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
