@@ -1,4 +1,4 @@
-# 💀 ShellcodeGenerator
+# 💀 ShellCodeGenerator
 
 > A powerful Linux-based utility to generate customized Windows reverse shellcode directly from inline x86 NASM assembly.
 
